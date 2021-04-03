@@ -5,11 +5,13 @@ Assignment Description: "Implement merge sort and insertion sort to sort anarray
 
 Example values for data.txt 
 4 19 2 5 11 
+
 8 1 2 3 4 5 6 1 2
 
 The output will be displayed to the terminal
 For the above example the output would be
 2 5 11 19
+
 1 1 2 2 3 4 5 6 " (from assignment)
 
 Program Example Run:
